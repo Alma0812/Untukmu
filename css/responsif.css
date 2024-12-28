@@ -1,64 +1,17 @@
+/*Author    : Wafa Rifqi Anafin*/
+/*Github    : https://github.com/wafarifki*/
+/*Facebook  : https://facebook.com/wafarifkianafin*/
+/*Instagram : https://instagram.com/wafarifki_*/
+/*Website   : https://wafarifki.tk*/
+
 @media (min-width: 300px) and (max-width: 640px) {
-    /* Mengurangi margin-top dan memastikan konten berada pada posisi yang tepat */
     .ml1 {
-        margin-top: 20%; /* Menurunkan margin-top agar terlihat lebih pas di layar kecil */
+        margin-top: 45%;
     }
 
     .kontener2 {
-        padding: 15px;
-        text-align: center;
-        margin-top: 30%; /* Menurunkan margin-top agar lebih pas pada layar kecil */
-    }
-
-    /* Mengatur lebar tombol menjadi lebih lebar di layar kecil */
-    .tombol {
-        width: 80%; /* Tombol lebih besar di layar kecil */
-        font-size: 18px; /* Ukuran font tombol lebih besar */
-        padding: 15px; /* Menambah padding untuk kenyamanan */
-    }
-
-    /* Menyesuaikan gambar agar lebih responsif, memenuhi lebar layar */
-    .gambar {
-        width: 100%; /* Menyesuaikan gambar dengan lebar layar */
-        height: auto; /* Menjaga rasio aspek gambar */
-    }
-
-    /* Mengatur ukuran teks judul halaman agar sesuai di layar kecil */
-    .judul_halaman {
-        font-size: 22px; /* Ukuran font judul lebih kecil */
         padding: 10px;
-    }
-
-    /* Menyesuaikan ukuran teks ucapan agar lebih nyaman dibaca di perangkat kecil */
-    .ucapan, .ucapan1, .ucapan2, .ucapan3 {
-        font-size: 16px; /* Ukuran font untuk ucapan lebih kecil dan nyaman dibaca */
-    }
-
-    /* Mengatur halaman untuk memiliki ruang kosong yang lebih sesuai di layar kecil */
-    .halaman1, .halaman2, .halaman3, .halaman4 {
-        padding: 10px; /* Menurunkan padding agar tidak terlalu banyak ruang kosong */
-        margin: 0; /* Menghapus margin yang mungkin mengganggu tampilan */
-    }
-
-    /* Mengatur konten agar tidak terpotong dan bisa scroll jika diperlukan */
-    body {
-        overflow-x: hidden; /* Menghindari scroll horizontal */
-        font-size: 14px; /* Ukuran font lebih kecil agar semua teks bisa tampil */
-    }
-
-    /* Agar judul tetap terlihat dengan baik di layar kecil */
-    .judul_halaman, .ucapan {
         text-align: center;
-        font-size: 16px; /* Menyesuaikan ukuran font untuk teks */
-    }
-
-    /* Mengatur ukuran font untuk ucapan agar lebih pas */
-    .ucapan1, .ucapan2, .ucapan3 {
-        font-size: 14px; /* Menyesuaikan ukuran font ucapan */
-    }
-
-    /* Sesuaikan tampilan teks pada halaman */
-    .dalemnya_kontener {
-        padding: 10px;
+        margin-top: 60%;
     }
 }
